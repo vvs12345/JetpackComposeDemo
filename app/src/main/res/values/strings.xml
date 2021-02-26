@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackComposeDemo</string>
+    <string name="list_screen">list</string>
+    <string name="list_detail">list_detail</string>
+</resources>
